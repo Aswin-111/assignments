@@ -1,0 +1,330 @@
+1627934683525	geckodriver	INFO	Listening on 127.0.0.1:60222
+1627934686543	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofilexC0AiX"
+1627934686804	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrator\\AppData\\Local\\Temp\\2\\rust_mozprofilexC0AiX\\search.json.mozlz4", (void 0)))
+1627934687758	Marionette	INFO	Listening on port 60231
+1627934688171	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.westernunion.com/serverless/assets/vendor/WUAnalyticEventCapture.js, line 3176: unreachable code after return statement
+JavaScript warning: https://www.westernunion.com/serverless/assets/vendor/WUAnalyticEventCapture.js, line 3176: unreachable code after return statement
+JavaScript warning: https://tgtag.io/tg.js, line 1: WebGL context was lost.
+JavaScript warning: https://tgtag.io/tg.js, line 1: WebGL context was lost.
+1627934714638	Marionette	INFO	Stopped listening on port 60231
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627934715252	geckodriver	INFO	Listening on 127.0.0.1:60344
+1627934718289	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofilesuGKW8"
+1627934718538	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrator\\AppData\\Local\\Temp\\2\\rust_mozprofilesuGKW8\\search.json.mozlz4", (void 0)))
+1627934719502	Marionette	INFO	Listening on port 60352
+1627934719917	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.westernunion.com/serverless/assets/vendor/WUAnalyticEventCapture.js, line 3176: unreachable code after return statement
+JavaScript warning: https://www.westernunion.com/serverless/assets/vendor/WUAnalyticEventCapture.js, line 3176: unreachable code after return statement
+JavaScript warning: https://tgtag.io/tg.js, line 1: WebGL context was lost.
+JavaScript warning: https://tgtag.io/tg.js, line 1: WebGL context was lost.
+1627934743652	Marionette	INFO	Stopped listening on port 60352
+1627934744261	geckodriver	INFO	Listening on 127.0.0.1:60468
+1627934747274	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofilezbq7WF"
+1627934747525	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrator\\AppData\\Local\\Temp\\2\\rust_mozprofilezbq7WF\\search.json.mozlz4", (void 0)))
+1627934748432	Marionette	INFO	Listening on port 60476
+1627934748901	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.westernunion.com/serverless/assets/vendor/WUAnalyticEventCapture.js, line 3176: unreachable code after return statement
+JavaScript warning: https://www.westernunion.com/serverless/assets/vendor/WUAnalyticEventCapture.js, line 3176: unreachable code after return statement
+JavaScript warning: https://tgtag.io/tg.js, line 1: WebGL context was lost.
+JavaScript warning: https://tgtag.io/tg.js, line 1: WebGL context was lost.
+1627934772550	Marionette	INFO	Stopped listening on port 60476
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627934773178	geckodriver	INFO	Listening on 127.0.0.1:60595
+1627934776203	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofileAwLnIr"
+1627934776452	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrator\\AppData\\Local\\Temp\\2\\rust_mozprofileAwLnIr\\search.json.mozlz4", (void 0)))
+1627934777370	Marionette	INFO	Listening on port 60603
+1627934777834	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.westernunion.com/serverless/assets/vendor/WUAnalyticEventCapture.js, line 3176: unreachable code after return statement
+JavaScript warning: https://www.westernunion.com/serverless/assets/vendor/WUAnalyticEventCapture.js, line 3176: unreachable code after return statement
+JavaScript warning: https://tgtag.io/tg.js, line 1: WebGL context was lost.
+JavaScript warning: https://tgtag.io/tg.js, line 1: WebGL context was lost.
+1627934801415	Marionette	INFO	Stopped listening on port 60603
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627934802021	geckodriver	INFO	Listening on 127.0.0.1:60719
+1627934805054	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofiley3kMhx"
+1627934805300	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrator\\AppData\\Local\\Temp\\2\\rust_mozprofiley3kMhx\\search.json.mozlz4", (void 0)))
+1627934806200	Marionette	INFO	Listening on port 60728
+1627934806680	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.westernunion.com/serverless/assets/vendor/WUAnalyticEventCapture.js, line 3176: unreachable code after return statement
+JavaScript warning: https://www.westernunion.com/serverless/assets/vendor/WUAnalyticEventCapture.js, line 3176: unreachable code after return statement
+JavaScript warning: https://tgtag.io/tg.js, line 1: WebGL context was lost.
+JavaScript warning: https://tgtag.io/tg.js, line 1: WebGL context was lost.
+1627934827035	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1627934831241	Marionette	INFO	Stopped listening on port 60728
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627934831852	geckodriver	INFO	Listening on 127.0.0.1:60839
+1627934834869	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofilebCxzeV"
+1627934835128	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrator\\AppData\\Local\\Temp\\2\\rust_mozprofilebCxzeV\\search.json.mozlz4", (void 0)))
+1627934836042	Marionette	INFO	Listening on port 60847
+1627934836498	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.westernunion.com/serverless/assets/vendor/WUAnalyticEventCapture.js, line 3176: unreachable code after return statement
+JavaScript warning: https://www.westernunion.com/serverless/assets/vendor/WUAnalyticEventCapture.js, line 3176: unreachable code after return statement
+JavaScript warning: https://tgtag.io/tg.js, line 1: WebGL context was lost.
+JavaScript warning: https://tgtag.io/tg.js, line 1: WebGL context was lost.
+1627934860318	Marionette	INFO	Stopped listening on port 60847
+1627934860953	geckodriver	INFO	Listening on 127.0.0.1:60962
+1627934863977	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofileuQt8ek"
+1627934864225	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrator\\AppData\\Local\\Temp\\2\\rust_mozprofileuQt8ek\\search.json.mozlz4", (void 0)))
+1627934865143	Marionette	INFO	Listening on port 60970
+1627934865604	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.westernunion.com/serverless/assets/vendor/WUAnalyticEventCapture.js, line 3176: unreachable code after return statement
+JavaScript warning: https://www.westernunion.com/serverless/assets/vendor/WUAnalyticEventCapture.js, line 3176: unreachable code after return statement
+JavaScript warning: https://tgtag.io/tg.js, line 1: WebGL context was lost.
+JavaScript warning: https://tgtag.io/tg.js, line 1: WebGL context was lost.
+1627934890850	Marionette	INFO	Stopped listening on port 60970
+[Child 18148, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627934891455	geckodriver	INFO	Listening on 127.0.0.1:61072
+1627934894469	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofilex1OUZC"
+1627934894717	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrator\\AppData\\Local\\Temp\\2\\rust_mozprofilex1OUZC\\search.json.mozlz4", (void 0)))
+1627934895627	Marionette	INFO	Listening on port 61080
+1627934896098	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.westernunion.com/serverless/assets/vendor/WUAnalyticEventCapture.js, line 3176: unreachable code after return statement
+JavaScript warning: https://www.westernunion.com/serverless/assets/vendor/WUAnalyticEventCapture.js, line 3176: unreachable code after return statement
+JavaScript warning: https://tgtag.io/tg.js, line 1: WebGL context was lost.
+JavaScript warning: https://tgtag.io/tg.js, line 1: WebGL context was lost.
+1627934919814	Marionette	INFO	Stopped listening on port 61080
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627934920366	geckodriver	INFO	Listening on 127.0.0.1:61193
+1627934923400	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofileH5mDCF"
+1627934923651	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrator\\AppData\\Local\\Temp\\2\\rust_mozprofileH5mDCF\\search.json.mozlz4", (void 0)))
+1627934924638	Marionette	INFO	Listening on port 61201
+1627934925027	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.westernunion.com/serverless/assets/vendor/WUAnalyticEventCapture.js, line 3176: unreachable code after return statement
+JavaScript warning: https://www.westernunion.com/serverless/assets/vendor/WUAnalyticEventCapture.js, line 3176: unreachable code after return statement
+JavaScript warning: https://tgtag.io/tg.js, line 1: WebGL context was lost.
+JavaScript warning: https://tgtag.io/tg.js, line 1: WebGL context was lost.
+1627934948061	Marionette	INFO	Stopped listening on port 61201
+1627934948671	geckodriver	INFO	Listening on 127.0.0.1:61307
+1627934951694	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofileaSCfsa"
+1627934951943	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrator\\AppData\\Local\\Temp\\2\\rust_mozprofileaSCfsa\\search.json.mozlz4", (void 0)))
+1627934952893	Marionette	INFO	Listening on port 61315
+1627934953323	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.westernunion.com/serverless/assets/vendor/WUAnalyticEventCapture.js, line 3176: unreachable code after return statement
+JavaScript warning: https://www.westernunion.com/serverless/assets/vendor/WUAnalyticEventCapture.js, line 3176: unreachable code after return statement
+JavaScript warning: https://tgtag.io/tg.js, line 1: WebGL context was lost.
+JavaScript warning: https://tgtag.io/tg.js, line 1: WebGL context was lost.
+1627934977026	Marionette	INFO	Stopped listening on port 61315
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627934977636	geckodriver	INFO	Listening on 127.0.0.1:61428
+1627934980650	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofileNvgYhb"
+1627934980901	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrator\\AppData\\Local\\Temp\\2\\rust_mozprofileNvgYhb\\search.json.mozlz4", (void 0)))
+1627934981807	Marionette	INFO	Listening on port 61436
+1627934982277	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.westernunion.com/serverless/assets/vendor/WUAnalyticEventCapture.js, line 3176: unreachable code after return statement
+JavaScript warning: https://www.westernunion.com/serverless/assets/vendor/WUAnalyticEventCapture.js, line 3176: unreachable code after return statement
+JavaScript warning: https://tgtag.io/tg.js, line 1: WebGL context was lost.
+JavaScript warning: https://tgtag.io/tg.js, line 1: WebGL context was lost.
+1627935007289	Marionette	INFO	Stopped listening on port 61436
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627935007911	geckodriver	INFO	Listening on 127.0.0.1:61543
+1627935010944	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofileJhLhVe"
+1627935011193	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrator\\AppData\\Local\\Temp\\2\\rust_mozprofileJhLhVe\\search.json.mozlz4", (void 0)))
+1627935012092	Marionette	INFO	Listening on port 61551
+1627935012574	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.westernunion.com/serverless/assets/vendor/WUAnalyticEventCapture.js, line 3176: unreachable code after return statement
+JavaScript warning: https://www.westernunion.com/serverless/assets/vendor/WUAnalyticEventCapture.js, line 3176: unreachable code after return statement
+JavaScript warning: https://tgtag.io/tg.js, line 1: WebGL context was lost.
+JavaScript warning: https://tgtag.io/tg.js, line 1: WebGL context was lost.
+1627935037311	Marionette	INFO	Stopped listening on port 61551
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627935037916	geckodriver	INFO	Listening on 127.0.0.1:61656
+1627935040951	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofileyIxl5Y"
+1627935041198	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrator\\AppData\\Local\\Temp\\2\\rust_mozprofileyIxl5Y\\search.json.mozlz4", (void 0)))
+1627935042092	Marionette	INFO	Listening on port 61664
+1627935042577	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.westernunion.com/serverless/assets/vendor/WUAnalyticEventCapture.js, line 3176: unreachable code after return statement
+JavaScript warning: https://www.westernunion.com/serverless/assets/vendor/WUAnalyticEventCapture.js, line 3176: unreachable code after return statement
+JavaScript warning: https://tgtag.io/tg.js, line 1: WebGL context was lost.
+JavaScript warning: https://tgtag.io/tg.js, line 1: WebGL context was lost.
+1627935069178	Marionette	INFO	Stopped listening on port 61664
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627935069785	geckodriver	INFO	Listening on 127.0.0.1:61781
+1627935072809	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofileaihyWV"
+1627935073057	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrator\\AppData\\Local\\Temp\\2\\rust_mozprofileaihyWV\\search.json.mozlz4", (void 0)))
+1627935073959	Marionette	INFO	Listening on port 61789
+1627935074436	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.westernunion.com/serverless/assets/vendor/WUAnalyticEventCapture.js, line 3176: unreachable code after return statement
+JavaScript warning: https://www.westernunion.com/serverless/assets/vendor/WUAnalyticEventCapture.js, line 3176: unreachable code after return statement
+JavaScript warning: https://tgtag.io/tg.js, line 1: WebGL context was lost.
+JavaScript warning: https://tgtag.io/tg.js, line 1: WebGL context was lost.
+1627935097957	Marionette	INFO	Stopped listening on port 61789
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627935098563	geckodriver	INFO	Listening on 127.0.0.1:61897
+1627935101604	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofilecd67ds"
+1627935101855	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrator\\AppData\\Local\\Temp\\2\\rust_mozprofilecd67ds\\search.json.mozlz4", (void 0)))
+1627935102760	Marionette	INFO	Listening on port 61905
+1627935103230	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.westernunion.com/serverless/assets/vendor/WUAnalyticEventCapture.js, line 3176: unreachable code after return statement
+JavaScript warning: https://www.westernunion.com/serverless/assets/vendor/WUAnalyticEventCapture.js, line 3176: unreachable code after return statement
+JavaScript warning: https://tgtag.io/tg.js, line 1: WebGL context was lost.
+JavaScript warning: https://tgtag.io/tg.js, line 1: WebGL context was lost.
+1627935128554	Marionette	INFO	Stopped listening on port 61905
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627935129157	geckodriver	INFO	Listening on 127.0.0.1:62011
+1627935132193	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofilefUxDBn"
+1627935132442	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrator\\AppData\\Local\\Temp\\2\\rust_mozprofilefUxDBn\\search.json.mozlz4", (void 0)))
+1627935133348	Marionette	INFO	Listening on port 62019
+1627935133819	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.westernunion.com/serverless/assets/vendor/WUAnalyticEventCapture.js, line 3176: unreachable code after return statement
+JavaScript warning: https://www.westernunion.com/serverless/assets/vendor/WUAnalyticEventCapture.js, line 3176: unreachable code after return statement
+JavaScript warning: https://tgtag.io/tg.js, line 1: WebGL context was lost.
+JavaScript warning: https://tgtag.io/tg.js, line 1: WebGL context was lost.
+1627935159523	Marionette	INFO	Stopped listening on port 62019
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627935160129	geckodriver	INFO	Listening on 127.0.0.1:62130
+1627935163163	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofilesNq6qS"
+1627935163412	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrator\\AppData\\Local\\Temp\\2\\rust_mozprofilesNq6qS\\search.json.mozlz4", (void 0)))
+1627935164305	Marionette	INFO	Listening on port 62138
+1627935164789	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.westernunion.com/serverless/assets/vendor/WUAnalyticEventCapture.js, line 3176: unreachable code after return statement
+JavaScript warning: https://www.westernunion.com/serverless/assets/vendor/WUAnalyticEventCapture.js, line 3176: unreachable code after return statement
+JavaScript warning: https://tgtag.io/tg.js, line 1: WebGL context was lost.
+JavaScript warning: https://tgtag.io/tg.js, line 1: WebGL context was lost.
+1627935189386	Marionette	INFO	Stopped listening on port 62138
+1627935189991	geckodriver	INFO	Listening on 127.0.0.1:62249
+1627935193016	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofileTabErc"
+1627935193266	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrator\\AppData\\Local\\Temp\\2\\rust_mozprofileTabErc\\search.json.mozlz4", (void 0)))
+1627935194170	Marionette	INFO	Listening on port 62257
+1627935194644	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.westernunion.com/serverless/assets/vendor/WUAnalyticEventCapture.js, line 3176: unreachable code after return statement
+JavaScript warning: https://www.westernunion.com/serverless/assets/vendor/WUAnalyticEventCapture.js, line 3176: unreachable code after return statement
+JavaScript warning: https://tgtag.io/tg.js, line 1: WebGL context was lost.
+JavaScript warning: https://tgtag.io/tg.js, line 1: WebGL context was lost.
+1627935221175	Marionette	INFO	Stopped listening on port 62257
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x690023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627935221777	geckodriver	INFO	Listening on 127.0.0.1:62369
+1627935224802	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofileXBM9mP"
+1627935225051	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrator\\AppData\\Local\\Temp\\2\\rust_mozprofileXBM9mP\\search.json.mozlz4", (void 0)))
+1627935226033	Marionette	INFO	Listening on port 62377
+1627935226430	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.westernunion.com/serverless/assets/vendor/WUAnalyticEventCapture.js, line 3176: unreachable code after return statement
+JavaScript warning: https://www.westernunion.com/serverless/assets/vendor/WUAnalyticEventCapture.js, line 3176: unreachable code after return statement
+JavaScript warning: https://tgtag.io/tg.js, line 1: WebGL context was lost.
+JavaScript warning: https://tgtag.io/tg.js, line 1: WebGL context was lost.
+1627935247863	Marionette	INFO	Stopped listening on port 62377
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390079,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1627935248488	geckodriver	INFO	Listening on 127.0.0.1:62490
+1627935251522	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile2iv4vh"
+1627935251770	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrator\\AppData\\Local\\Temp\\2\\rust_mozprofile2iv4vh\\search.json.mozlz4", (void 0)))
+1627935252687	Marionette	INFO	Listening on port 62498
+1627935253149	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.westernunion.com/serverless/assets/vendor/WUAnalyticEventCapture.js, line 3176: unreachable code after return statement
+JavaScript warning: https://www.westernunion.com/serverless/assets/vendor/WUAnalyticEventCapture.js, line 3176: unreachable code after return statement
+JavaScript warning: https://tgtag.io/tg.js, line 1: WebGL context was lost.
+JavaScript warning: https://tgtag.io/tg.js, line 1: WebGL context was lost.
+1627935275871	Marionette	INFO	Stopped listening on port 62498
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627935276498	geckodriver	INFO	Listening on 127.0.0.1:62604
+1627935279521	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofilePe9BjY"
+1627935279770	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrator\\AppData\\Local\\Temp\\2\\rust_mozprofilePe9BjY\\search.json.mozlz4", (void 0)))
+1627935280690	Marionette	INFO	Listening on port 62612
+1627935281147	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.westernunion.com/serverless/assets/vendor/WUAnalyticEventCapture.js, line 3176: unreachable code after return statement
+JavaScript warning: https://www.westernunion.com/serverless/assets/vendor/WUAnalyticEventCapture.js, line 3176: unreachable code after return statement
+JavaScript warning: https://tgtag.io/tg.js, line 1: WebGL context was lost.
+JavaScript warning: https://tgtag.io/tg.js, line 1: WebGL context was lost.
+1627935303230	Marionette	INFO	Stopped listening on port 62612
+[Child 19248, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627935303823	geckodriver	INFO	Listening on 127.0.0.1:62718
+1627935306857	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofilenKR85Y"
+1627935307113	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrator\\AppData\\Local\\Temp\\2\\rust_mozprofilenKR85Y\\search.json.mozlz4", (void 0)))
+1627935308017	Marionette	INFO	Listening on port 62726
+1627935308486	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.westernunion.com/serverless/assets/vendor/WUAnalyticEventCapture.js, line 3176: unreachable code after return statement
+JavaScript warning: https://www.westernunion.com/serverless/assets/vendor/WUAnalyticEventCapture.js, line 3176: unreachable code after return statement
+JavaScript warning: https://tgtag.io/tg.js, line 1: WebGL context was lost.
+JavaScript warning: https://tgtag.io/tg.js, line 1: WebGL context was lost.
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1627936935061	Marionette	INFO	Stopped listening on port 62726
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
