@@ -1,0 +1,88 @@
+<html>
+<head>
+	<title>Upload</title>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+	<script src="/static/upload.js"></script>
+
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+	<!-- Optional theme -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
+
+	<!-- Latest compiled and minified JavaScript -->
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+</head>
+<body>
+<style>
+@import url("https://fonts.googleapis.com/css?family=Montserrat&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f4f4f4;
+  flex-direction: column;
+  font-family: "Montserrat", sans-serif;
+  display: flex;
+  align-items: center;
+  /*justify-content: center;*/
+  height: 100vh;
+  margin: 0;
+}
+
+.progress {
+  background-color: #d8d8d7;
+  border-radius: 20px;
+  position: relative;
+  margin: 15px 0;
+  height: 30px;
+  width: 300px;
+}
+
+.progress-done {
+  background: linear-gradient(to left, #f2709c, #ff9472);
+  box-shadow: 0 3px 3px -5px #f2709c, 0 2px 5px #f2709c;
+  border-radius: 20px;
+  color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 0;
+  opacity: 0;
+  transition: 1s ease 0.3s;
+}
+.main-title {
+  display: flex;
+  align-items: center;
+}
+input[type=file]::file-selector-button {
+  border: 2px solid #eeff00;
+  padding: .4em .5em;
+  border-radius: .2em;
+  background-color: #ffee00;
+  transition: 1s;
+  font-family: "Montserrat", sans-serif;
+}
+#submit{
+	margin-top:20px;
+	margin-left:35%;
+}
+</style>
+<h1 id = 'main-title'>Flask file uploader</h1>
+<form method=POST enctype=multipart/form-data action="{{ url_for('upload') }}">
+    <input type=file id="media" name=media class = 'btn btn-warning'>
+    <input id = 'submit' class = 'btn btn-primary' type="submit">
+</form>
+
+<div class="progress">
+  <div id="progressBar" class="progress-bar" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" style="width: 0%;">
+    0%
+  </div>
+</div>
+
+</div>
+</body>
+</html>
