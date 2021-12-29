@@ -1,0 +1,23 @@
+This python code is made from modules using simple audio and numpy libraries,also used some mathematic equations for the synthesis of music 
+"Mary had a little lamb", also this python code does not uses chords, just simple notes for playing.before making this code we need to 
+know how a piano works. A piano consist of 12 keys and 7 white keys and 5 black keys and all this 12 keys form an octave. Each key of an octave 
+produces specific frequency so that the sound of each keys are distinct.Moving from lower keys to upper keys the frequency of the note increases. 
+White keys are named as C,D,E,F,G,A,B and all black keys are named as two separate names such as flat and sharp respective of where the keys are 
+located. For example if a black key is right side of any white key,then its called sharp and if it's in the left then it is called flat (for example, 
+Black keys vetween C and D has two name  C sharp and D flat. This is because it is on the right side of C and also on the left side of D). Sound waves 
+are waves generated through the vibration of air molecules so when we press a key in a piano,it generates a frequency that will vibrate air molecules 
+thus creating sound.There are lot of types of waves, in this code we use sine wave to generate music. The mathematical equation of sine wave is 
+A sin(2𝜋ft) ,where A = amplitude(peak value of a wave) , f = frequency(number of oscillations per second) and t = time (in seconds) For example 
+A frequency of 1000 Hz means we should complete one full cycle in 1/1000 sec, which means that when t=1/1000, we have 2𝜋ft = 2𝜋, and at sin(2𝜋) 
+this is indeed the completion of one full cycle.Then we use the a variable called samplerate and assingned the value of 44100 means 440Hz, implies 
+that the wave completes 440 full cycles in one second. In other words, it completes one cycle in 1/440 second.After we plot the wave, then what we want to do is to create a function in Python(def wave) to generate a NumPy array of a wave with respect to time. At first we create a list of notes like this ['C', 'c', 'D', 'd', 'E', 'F', 'f', 'G', 'g', 'A', 'a', 'B'] 
+then we use this list of notes to find all frequency yes of he octave. Pianos are tuned using an “equal temperament system”. That means the relationship between the frequency of the keys (notes) is like this mathematical system
+equation - note_frequency = vase_frequency*2^(n/12), Where n is the number of notes away from the base note.For example, if we consider C as our base note, then C# will have the frequency = base_freq * 2^(1/12).So what the piano_notes function do is that, it calculates all the frequncy of the given music notes and
+returns a dictionary of frequencies assigned to key of name of notes.And then we create a function(song) to concatenate all note.In that function we create a variavle called function
+song and then we pass music notes as parameter and the function calls piano_notes function and assign it to a variavle called notefreqs and then loop through
+all the notes given as the parameter(music notes) and remove all the "-" symbol and find wave data of each notes and save it to a variable called song. Then the genereated wave data of every notes(stored in the variavle) is concatenated to the array
+and converts it to 16 bit and return the value. And the last part, we create a varaiable for playing notes we call play_vuffer function and pass the data variable we got from the
+song function,as first parameter then we give second parameter as 1 cause we want a mono audio output,and we finally passes the sample rate. The audio plays.
+Details of all notes used
+0: C4-4-0.5-4 0: C4-4-0.5-4 8: G4-4-0.5-4 1: G4-4-0.5-4 6: A4-4-0.5-4 2: A4-4-0.5-4 3: G4-4-0.5-4 0: F4-4-0.5-4 C4-4-0.5-4 
+F4-4-0.5-4  E4-4-0.5-4  E4-4-0.5-4 D4-4-0.5-4 D4-4-0.5-4 0: C4-4-0.5-4
